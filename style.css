@@ -312,3 +312,119 @@ nav ul li a{
 .copyright p{
     text-align: center;
 }
+
+
+
+/* all product section */
+.col-2dp{
+    margin-bottom: 10px;
+}
+select{
+    padding: 8px 10px;
+    border:1px solid #ff523b;
+
+}
+select:focus{
+    outline: #ff523b;
+}
+
+
+/* about-us section */
+.about-us{
+    margin-bottom:100px;
+}
+.about-us h1{
+    color: #555;
+    font-size: 50px;
+    text-align: center;
+    margin: auto;
+    padding: 50px 0;
+    padding-bottom: 100px;
+}
+.about1{
+    margin-bottom: 100px;
+}
+.about1 h1{
+    color: #555;
+    font-size: 45px;
+    font-weight: 600;
+    margin-bottom: 20px ;
+}
+.about1 p{
+    color: #777;
+    margin-bottom: 10px;
+}
+.about1 a{
+    margin-top: 10px;
+    margin-left: 0;
+}
+.about{
+    margin-bottom: 100px;
+}
+.about-text{
+    text-align: center;
+}
+.about-text h1{
+    color: #555;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.about-text p{
+    color: #777;
+    
+}
+
+/* contact us section */
+/* contact us */
+.location{
+    width: 80%;
+    margin: auto;
+    padding: 80px 0;
+
+}
+.location iframe{
+    width: 100%;
+}
+.contact-us {
+    width: 80%;
+    margin: auto;
+}
+.contact-col{
+    flex-basis: 48%;
+    margin-bottom: 30px;
+}
+.contact-col div{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.contact-col .fa-solid {
+    font-size: 28px;
+    color: #f44336;
+    margin: 10px;
+    margin-right: 30px;
+}
+.contact-col div p{
+    padding: 0;
+
+}
+.contact-col div h5{
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: #555;
+    font-weight: 400;
+}
+.comment{
+    border: 1px solid #999;
+    padding: 25px 30px;
+    margin: 20px 0;
+}
+.comment-from{}
+ input, textarea{
+    width: 100%;
+    display: block;
+    margin: 20px 0;
+    padding: 10px;
+    border: none;
+    background: #f0f0f0;
+}
